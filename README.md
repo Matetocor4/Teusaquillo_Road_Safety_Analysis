@@ -124,15 +124,15 @@ Análisis integral de **5,779 casos de siniestralidad vial** en la localidad de 
 teusaquillo-siniestralidad-analysis/
 │
 ├── data/
-│   ├── raw/                           # Datos originales Sec. Movilidad
-│   ├── cleaned/                       # Base de datos procesada
-│   └── geospatial/                    # Shapefiles y capas ArcGIS
+│   ├── Data_Injured                           # Datos originales Sec. Movilidad
+│   ├── Data_Injured_Cleaned/                       # Base de datos procesada
+│
 │
 ├── powerbi/
-│   └── Dashboard_Siniestralidad.pbix  # Dashboard principal
+│   └── Dashboard_Accident_Rate.pbix  # Dashboard principal
 │
 ├── docs/
-│   ├── INFORME_SINIESTRALIDAD.pdf     # Informe académico completo
+│   ├── Report_Teusaquillo.pdf     # Informe académico completo
 │               
 │
 ├── images/
