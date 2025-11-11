@@ -136,8 +136,8 @@ Teusaquillo_Road_Safety_Analysis/
 │               
 │
 ├── images/
-│   ├── dashboard_preview.png
-│   └── teusaquillo.png
+│   ├── dashboard_preview.jpg
+│   └── teusaquillo.jpg
 │
 └── README.md
 ```
