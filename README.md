@@ -1,10 +1,14 @@
 # 🚦 Análisis de Siniestralidad Vial - Teusaquillo, Bogotá
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 > Dashboard geoespacial interactivo para análisis de accidentalidad vial en Teusaquillo, Bogotá (2015-2023)
+
+
+
+<img width="1528" height="784" alt="image" src="https://github.com/user-attachments/assets/6482d8ff-5f07-43b3-9c63-7a637795b2b7" />
+
 
 ---
 
@@ -44,13 +48,7 @@ Análisis integral de **5,779 casos de siniestralidad vial** en la localidad de 
 - Análisis de clases de accidentes
 - Segmentación por tipo de servicio y género
 
-### 2. **Georreferenciación ArcGIS Pro** - Análisis Espacial
-- Mapa de calor de puntos críticos
-- Localización exacta de siniestros
-- Identificación de intersecciones peligrosas
-- Análisis de corredores viales de riesgo
-
-### 3. **Análisis Descriptivo Excel** - Limpieza y Preparación
+### 2. **Análisis Descriptivo Excel** - Limpieza y Preparación
 - ETL de datos abiertos (Secretaría Distrital de Movilidad)
 - Estandarización de registros
 - Validación de calidad de datos
@@ -61,15 +59,12 @@ Análisis integral de **5,779 casos de siniestralidad vial** en la localidad de 
 
 **Herramientas de Análisis:**
 - **Power BI Desktop**: Visualización y storytelling de datos
-- **ArcGIS Pro**: Georreferenciación y análisis espacial
 - **Microsoft Excel**: ETL y limpieza de datos
 - **Power Query**: Transformaciones y modelado
 
 **Técnicas Aplicadas:**
 - Análisis Exploratorio de Datos (EDA)
 - Segmentación Multivariable
-- Análisis Temporal (series de tiempo)
-- Geoanálisis y Hotspot Detection
 - Visualización de Datos Complejos
 - Urban Analytics
 
@@ -136,17 +131,13 @@ teusaquillo-siniestralidad-analysis/
 ├── powerbi/
 │   └── Dashboard_Siniestralidad.pbix  # Dashboard principal
 │
-├── arcgis/
-│   ├── mapas/                         # Mapas de calor exportados
-│   └── proyecto_arcgis.aprx           # Proyecto ArcGIS
-│
 ├── docs/
 │   ├── INFORME_SINIESTRALIDAD.pdf     # Informe académico completo
-│   └── METODOLOGIA.md                 # Detalle metodológico
+│               
 │
 ├── images/
 │   ├── dashboard_preview.png
-│   └── mapa_calor_teusaquillo.png
+│   └── teusaquillo.png
 │
 └── README.md
 ```
@@ -175,12 +166,6 @@ Registros finales: 5,779
 - Segmentación por múltiples variables
 - Visualizaciones interactivas
 - Análisis de tendencias temporales
-
-### **Fase 4: Georreferenciación (ArcGIS Pro)**
-- Geocodificación de direcciones
-- Creación de mapas de calor (hotspots)
-- Análisis de densidad kernel
-- Identificación de corredores críticos
 
 ---
 
