@@ -218,6 +218,9 @@ Registros finales: 5,779
 
 ## 📖 Contexto del Proyecto
 
+<img width="458" height="446" alt="image" src="https://github.com/user-attachments/assets/51ecd402-de38-4c5b-9f25-11b64501ae15" />
+
+
 **Localización:** Teusaquillo, Bogotá D.C., Colombia  
 **Área:** 1,421 hectáreas (Centro de Bogotá)  
 **Periodo de Análisis:** 2015-2023  
@@ -233,7 +236,6 @@ Registros finales: 5,779
 
 ## 🎯 Habilidades Demostradas
 
-- ✅ **Análisis Geoespacial** (ArcGIS Pro, mapas de calor)
 - ✅ **Business Intelligence** (Power BI, DAX)
 - ✅ **Data Cleaning** (Excel, Power Query)
 - ✅ **Urban Analytics** (patrones de movilidad)
@@ -248,10 +250,6 @@ Registros finales: 5,779
 
 **Aarón Mateo Tocora Jiménez**  
 📍 Bogotá D.C., Colombia  
-🎓 Ciencia de Datos  
-📅 Agosto 2024  
-
-**Docente:** Diego Guecha
 
 ---
 
